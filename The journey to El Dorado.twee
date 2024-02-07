@@ -1,0 +1,536 @@
+:: StoryTitle
+The journey to El Dorado
+
+
+:: StoryData
+{
+  "ifid": "ACC447EA-C23F-452E-BF7F-B6F42B2BD8E7",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Call for help {"position":"850,1200","size":"100,100"}
+[[Jack : Hahahaha, we're in the jungle, alone here, who are you yelling at?->take right 8]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/fVTKo2m.jpeg">
+
+
+
+
+
+
+:: Continue {"position":"450,175","size":"100,100"}
+It happened a long time ago.
+It all started with your great grandfather, George Brodie, the world's greatest explorer and adventurer,
+When he told me and your uncle Grant about the lost city of gold - El Dorado - which is in the rain forests of South America.
+A city that robbers and scoundrels from all over the world spent centuries to locate.
+My brother and I couldn't sleep as children and we said that when we were adults we would go looking for the city of gold and get rich!
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+
+<img src="https://i.imgur.com/6qeopxg.jpeg">
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+
+<img src="https://i.imgur.com/fVTKo2m.jpeg">
+
+
+[[continue->Continue2]]
+
+
+
+:: Continue2 {"position":"450,300","size":"100,100"}
+ 20 Years Later, the Rain Forests, South America.
+
+Grant: Do you think there are jaguars here? Tigers?
+Jason: Hey Grant, give me the map for a sec,, I want to know which direction to turn
+Grant: Here
+Jason: You have to keep walking forward another 400 meters
+Grant : i dont believe you forget to reload our pistol Jason, we have no bullets ...
+
+<style> img{
+	max-width:60%;
+    max-height:60%;
+}
+</style>
+<img src="https://i.imgur.com/OFVrO1k.jpeg">
+
+
+
+
+Grant: Wow, look! This wooden sign looks ancient, we are really close Jason!
+I can already see the car of my dreams, Ay
+Jason: Hey dreamer, the map ends here, the journey has just begun, and more importantly, where are we going?
+
+[[take right]]
+[[take left]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/5znBDoI.jpeg">
+
+
+
+
+:: Fight with your hands {"position":"75,575","size":"100,100"}
+Grant and Jason run with bare hands towards the jaguar,
+The jaguar jumps them
+Jason: No, no, no,
+Grant: Guyson!
+Grant tries to free Jason from the jaguar but is too late
+The Jaguar jumps on him too
+
+[[You Dead->The End]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/JvTqQ90.jpeg">
+
+
+
+
+
+
+:: Fight, jump on Jack the Robber {"position":"475,900","size":"100,100"}
+Jason: Ahhhhhhhhh
+A shot was fired
+Grant: No, Jason!
+Jack: That's what happens when your brother does something stupid
+Grant: You will pay for it!
+
+Bang!
+gun fell
+Grant holds the gun
+
+Jack: No wait!
+Grant: Don't worry, I'm not a murderer like you!
+Grant: I'll leave you here to rot.
+
+Jason: Oh, it hurts
+Grant ties Jack to a tree and lifts his brother Jason on his back, dragging the treasure!
+Jack: You will pay for it!!!
+
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/9pl5Yqn.png">
+
+
+[[Go from There]]
+
+
+
+
+
+
+:: Go from There {"position":"475,1050","size":"100,100"}
+[[The End]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/bWlhihr.jpeg">
+
+
+Hospital :
+You are lucky Grant, you brought your brother at the last second.
+Grant : ,,
+Jason : Dont be sad Grand, I am rich , i will buy you nice car
+Grant : hhhh,oh jason , you will never changed
+
+Jason : I miss jack the thief,
+Grant : Did you also get hit in the head or what?
+Jason :I wonder what happened to you
+
+
+[[The End]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/FjZyves.jpeg">
+
+
+
+
+
+:: Ignore the jaguar and keep going {"position":"75,1075","size":"100,100"}
+The jaguar jumped on both of you with its teeth
+[[YOU DEAD->The End]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/JvTqQ90.jpeg">
+
+
+
+:: Offer Jack a share of the treasure in exchange for release {"position":"600,1200","size":"100,100"}
+Jack : Why should I share with two when I can take the entire treasure for myself!
+Forget it!
+[[continue->take right 8]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/AbEKKhM.png">
+
+
+
+
+
+
+:: Raise your voice and try to scare the jaguar {"position":"225,400","size":"100,100"}
+Jason: Ahhhhhhhhhhhhh
+Grant: Go away!!
+The jaguar continues to move towards them
+
+Jason: He's not afraid at all, what are we going to do Grant?
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/4ltz77l.jpeg">
+
+[[Fight with your hands]] 
+[[Run back to the previous path]] 
+[[Ignore the jaguar and keep going]] 
+
+
+:: Run back to the previous path {"position":"475,475","size":"100,100"}
+Jason: It was close, that jaguar looked particularly dangerous
+Grant: Yes, there was no choice, but maybe this is a sign from God that this is not the right way
+
+[[take right]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/5znBDoI.jpeg">
+
+
+
+
+:: Start {"position":"450,50","size":"100,100"}
+my dear son,
+You once asked me if I told you about all my adventures,
+And if I lied to you that I was in the city of myth - El Dorado
+I'm old already, I'm not as young as I used to be,
+I think it's about time you know what really happened.
+It happened a long time ago.
+
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/ty785Gd.png">
+
+
+[[Continue]]
+
+
+
+:: The End {"position":"400,1275","size":"100,100"}
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/RQteDH2.png">
+
+
+
+
+
+
+
+:: fightNearBridge {"position":"875,275","size":"100,100"}
+Your pistol have no bulltes,
+
+[[Continue->take right2]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/U9HWAnW.png">
+
+
+
+
+:: take left {"position":"175,250","size":"100,100"}
+Grant: Hope we chose the right path Jason
+Jason: I hope so too
+
+After 200 meters of walking
+
+Jason: Hey, you hear that
+Grant: What are you?
+Jason: Shhh, be quiet
+Grant: ...
+
+Suddenly a jaguar comes out of the bushes
+
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/4ltz77l.jpeg">
+
+[[Run back to the previous path]]
+[[Fight with your hands]]
+[[Raise your voice and try to scare the jaguar]]
+[[Ignore the jaguar and keep going]]
+
+
+
+:: take right {"position":"600,425","size":"100,100"}
+Jason: Look ! a bridge!
+Grant: Now we just have to cross it
+Jason: Do you think the bridge is strong enough to hold both of us?
+Grant: Me yes, I don't know about you, you gained a few kilos after the meal you eliminated two hours ago
+Jason: Hey! I was hungry haha
+
+[[continue->take right2]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/ypxy0mz.jpeg">
+
+
+
+
+:: take right 8 {"position":"725,950","size":"100,100"}
+Choose again :
+
+[[Fight, jump on Jack the Robber]]
+[[Call for help]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/DZhvGL0.jpeg">
+
+
+
+
+
+
+:: take right2 {"position":"775,100","size":"100,100"}
+Jason: Do you hear that?
+Grant: Oh no
+Jason: What do you see?
+Grant: It's Jack the Golden Robber and his friends
+Jason: What are they doing here?
+Grant: I think they were following us and we didn't notice
+Jason: Hey, here you are! Stop!
+Grant: what to do Jason!
+
+
+[[Run ->take right3]] 
+[[Fight ->fightNearBridge]] 
+[[try to talk with Jack ->talkwithjack]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/U9HWAnW.png">
+
+
+
+
+
+:: take right3 {"position":"800,425","size":"100,100"}
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/rWWBtdJ.png">
+
+
+
+
+
+Grant: Run!!!!!!!!!!!
+Jason: I can't breathe, I'm not built for it,
+Grant: I told you not to eat too much before we left, now deal with it, run!
+Jack: Catch them!!!
+
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/v8qFWCq.png">
+
+
+Grant: Quick, pass me the sword,
+Jason: No, don't break the ropes
+Grant: This is the only way, trust me!
+
+Jack almost catches Jason by the backpack
+Grant cuts the ropes
+
+Jack: Ahhhhhhhhh
+Golden Robbers: Ahhhhhhhhh
+
+[[continue->take right4]] 
+
+
+
+
+:: take right4 {"position":"800,550","size":"100,100"}
+Jason: WOW, i cant breath
+Grant: It was close
+Jason: You think?
+Jason: Where are we now?
+
+[[continue->take right5]]
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/TVgzTIs.png">
+
+
+
+
+
+
+:: take right5 {"position":"850,700","size":"100,100"}
+Jason: :O
+Grant: :O 
+Jason : OMG
+Grant: I don't believe it, El Dorado!
+Jason: I'm rich!
+Grant: First we'll find the treasure, then you'll be rich
+Grant: Right :P
+
+[[continue->take right6]] 
+
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/9vN58UA.png">
+
+
+
+
+
+
+:: take right6 {"position":"850,875","size":"100,100"}
+Grant and Jason entered the temple, when before their eyes the legendary treasure chest of El Dorado is revealed
+
+Jason:  Our father will be proud of us
+Grant Speechless 
+Jason: finally ! lets take it and go Home! 
+
+
+[[continue->take right7]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/Wb9YW50.png">
+
+
+
+
+:: take right7 {"position":"575,675","size":"100,100"}
+ sound of a gun loading
+ 
+Well  Well Well, thank you for finding it for me
+Jason: But how, you die...
+Grantt: You have fallen into the abyss
+Jack: Unfortunately for you, I fell into a river, but my friends died because of you!
+
+Jack: What are we going to do with you, ummm, shoot you or just tie you up in the temple to death?
+
+[[Fight, jump on Jack the Robber]]
+[[Offer Jack a share of the treasure in exchange for release]]
+[[Call for help]]
+
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/9BO6Euo.png">
+
+
+
+
+
+:: talkwithjack {"position":"725,275","size":"100,100"}
+Jack: Kill them !
+jason: i dont think he want to talk with us grant ! lets go !
+
+[[Continue->take right2]] 
+
+<style> img{
+	max-width:100%;
+    max-height:100%;
+}
+</style>
+<img src="https://i.imgur.com/U9HWAnW.png">
+
+
