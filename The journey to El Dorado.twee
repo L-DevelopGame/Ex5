@@ -141,7 +141,7 @@ Jack: You will pay for it!!!
 <img src="https://i.imgur.com/9pl5Yqn.png">
 
 
-[[Go from There]]
+[[take Jason to Hospital ->Go from There]]
 
 
 
@@ -149,7 +149,6 @@ Jack: You will pay for it!!!
 
 
 :: Go from There {"position":"475,1050","size":"100,100"}
-[[The End]]
 
 <style> img{
 	max-width:100%;
@@ -167,10 +166,8 @@ Grant : hhhh,oh jason , you will never changed
 
 Jason : I miss jack the thief,
 Grant : Did you also get hit in the head or what?
-Jason :I wonder what happened to you
+Jason :I wonder what happened to him
 
-
-[[The End]]
 
 <style> img{
 	max-width:100%;
@@ -179,6 +176,8 @@ Jason :I wonder what happened to you
 </style>
 <img src="https://i.imgur.com/FjZyves.jpeg">
 
+
+[[continue->The End]]
 
 
 
